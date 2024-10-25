@@ -25,3 +25,8 @@ git branch -M main
 
 И отправить
 git push -u origin main
+
+Клонирование проекта 
+git clone git@github.com:uw5efq/kalina.git
+
+git pull
