@@ -1,0 +1,15 @@
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+climate\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+climate\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+climate\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+climate\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+climate\queue.o: ../Core/Inc/FreeRTOSConfig.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+climate\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

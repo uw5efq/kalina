@@ -1,0 +1,14 @@
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+climate\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+climate\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+climate\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+climate\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+climate\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
