@@ -29,4 +29,5 @@ git push -u origin main
 Клонирование проекта 
 git clone git@github.com:uw5efq/kalina.git
 
+Копирование изминенй
 git pull
