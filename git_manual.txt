@@ -5,7 +5,6 @@ git config --global user.emaile "khlon_av@mail.ru"
 инициализировать папку с проэктом
 git init
 
-
 это три успользуються друг за другом если хочешь внести изменения
 доюавить файлы для отслеживания
 git add .
@@ -15,3 +14,14 @@ git commit -m "First commit"
 
 Отправить изменения на сервер
 git push 
+
+Перед удаленным комитом нужно настроить раз
+
+Проэкт
+git remote add origin git@github.com:uw5efq/kalina.git
+
+Имя главной ветки
+git branch -M main
+
+И отправить
+git push -u origin main
