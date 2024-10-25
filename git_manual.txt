@@ -1,5 +1,17 @@
+Будет подписывать кто делал изменения
 git config --global user.name "Anton Server"
 git config --global user.emaile "khlon_av@mail.ru"
+
+инициализировать папку с проэктом
 git init
+
+
+это три успользуються друг за другом если хочешь внести изменения
+доюавить файлы для отслеживания
 git add .
+
+Закомитить (Сохранить локально)
 git commit -m "First commit"
+
+Отправить изменения на сервер
+git push 
