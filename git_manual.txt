@@ -2,6 +2,9 @@
 git config --global user.name "Anton Server"
 git config --global user.emaile "khlon_av@mail.ru"
 
+Статус файлов
+git status
+
 инициализировать папку с проэктом
 git init
 
@@ -26,7 +29,7 @@ git branch -M main
 И отправить
 git push -u origin main
 
-Клонирование проекта 
+Клонирование всего проекта 
 git clone git@github.com:uw5efq/kalina.git
 
 Копирование только изминений
